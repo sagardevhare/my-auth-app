@@ -53,16 +53,16 @@ This will start the application on http://localhost:3000.
 
 ### Features
 
-Register: Create a new user account.
-Login: Access the application with existing credentials.
-Forgot Password: Recover access to your account if you forget your password.
-Responsive Design: Ensures usability across various devices.
+-Register: Create a new user account.
+-Login: Access the application with existing credentials.
+-Forgot Password: Recover access to your account if you forget your password.
+-Responsive Design: Ensures usability across various devices.
 
 ### Technologies Used
-React: A JavaScript library for building user interfaces.
-React Router: Declarative routing for React.
-CSS: Styling the application.
-Node.js: JavaScript runtime.
-npm: Package manager for JavaScript.
-Contributing
-Contributions are welcome! Please open an issue or submit a pull request for any changes.
+-React: A JavaScript library for building user interfaces.
+-React Router: Declarative routing for React.
+-CSS: Styling the application.
+-Node.js: JavaScript runtime.
+-npm: Package manager for JavaScript.
+-Contributing
+-Contributions are welcome! Please open an issue or submit a pull request for any changes.
